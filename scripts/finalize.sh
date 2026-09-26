@@ -1,9 +1,20 @@
 #!/bin/bash
 set -e
-cd "/data/video 1"
-ffmpeg -y -i final/motion-layer.mp4 -i final/final-mix.wav \
-  -vf "ass=captions.ass:fontsdir=/tmp/wwb-fonts" \
-  -r 30 -c:v libx264 -preset medium -crf 18 -pix_fmt yuv420p -profile:v high -level 4.2 \
-  -c:a aac -b:a 256k -ar 48000 -ac 2 -movflags +faststart -shortest final/final.mp4 -loglevel error
-echo "final.mp4 written"
-ffprobe -v error -show_entries format=duration,size -of default=noprint_wrappers=1 final/final.mp4
+cd /data/v2
+V=final/video.mp4
+A=narration/mix.wav
+OUT=final/final.mp4
+BR=1000k
+echo "=== pass 1 ==="
+ffmpeg -v error -y -i "$V" -c:v libx264 -b:v $BR -pass 1 -preset slow -g 60 -keyint_min 30 \
+  -sc_threshold 40 -pix_fmt yuv420p -an -f mp4 /dev/null
+echo "=== pass 2 ==="
+ffmpeg -v error -y -i "$V" -i "$A" \
+  -map 0:v:0 -map 1:a:0 \
+  -c:v libx264 -b:v $BR -pass 2 -preset slow -g 60 -keyint_min 30 -sc_threshold 40 \
+  -profile:v high -level 4.0 -pix_fmt yuv420p \
+  -c:a aac -b:a 96k -ar 48000 -ac 2 \
+  -movflags +faststart -shortest "$OUT"
+rm -f ffmpeg2pass-*.log*
+echo "=== done ==="
+ls -la "$OUT"
