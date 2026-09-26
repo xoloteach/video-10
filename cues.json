@@ -1,0 +1,82 @@
+[
+  {
+    "type": "STAT",
+    "value": "40\u201346%",
+    "word_idx": 136
+  },
+  {
+    "type": "TERM",
+    "value": "The Possibility Phase",
+    "word_idx": 208
+  },
+  {
+    "type": "TERM",
+    "value": "The Repetition Wall",
+    "word_idx": 333
+  },
+  {
+    "type": "STAT",
+    "value": "66 days",
+    "word_idx": 521
+  },
+  {
+    "type": "TERM",
+    "value": "All-or-Nothing Thinking",
+    "word_idx": 691
+  },
+  {
+    "type": "TERM",
+    "value": "Faster Recovery",
+    "word_idx": 827
+  },
+  {
+    "type": "ARROW",
+    "value": "forward",
+    "word_idx": 827
+  },
+  {
+    "type": "TERM",
+    "value": "Worst-Day Routines",
+    "word_idx": 905
+  },
+  {
+    "type": "TERM",
+    "value": "Continuity",
+    "word_idx": 1016
+  },
+  {
+    "type": "TERM",
+    "value": "False Progress",
+    "word_idx": 1174
+  },
+  {
+    "type": "STAT",
+    "value": "43%",
+    "word_idx": 1319
+  },
+  {
+    "type": "TERM",
+    "value": "Friction Removal",
+    "word_idx": 1422
+  },
+  {
+    "type": "TERM",
+    "value": "Evidence Stacking",
+    "word_idx": 1580
+  },
+  {
+    "type": "TERM",
+    "value": "The Middle",
+    "word_idx": 1717
+  },
+  {
+    "type": "TERM",
+    "value": "Momentum",
+    "word_idx": 1766
+  },
+  {
+    "type": "ARROW",
+    "value": "continue",
+    "word_idx": 1801
+  }
+]
