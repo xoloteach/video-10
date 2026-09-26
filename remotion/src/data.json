@@ -1,0 +1,385 @@
+{
+  "fps": 30,
+  "duration": 657.816,
+  "durationInFrames": 19735,
+  "panels": [
+    {
+      "src": "frames/p01.png",
+      "start": 0.0,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p02.png",
+      "start": 13.705,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p03.png",
+      "start": 27.409,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p04.png",
+      "start": 41.114,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p05.png",
+      "start": 54.818,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p06.png",
+      "start": 68.523,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p07.png",
+      "start": 82.227,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p08.png",
+      "start": 95.932,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p09.png",
+      "start": 109.636,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p10.png",
+      "start": 123.341,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p11.png",
+      "start": 137.045,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p12.png",
+      "start": 150.75,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p13.png",
+      "start": 164.454,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p14.png",
+      "start": 178.159,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p15.png",
+      "start": 191.863,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p16.png",
+      "start": 205.568,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p17.png",
+      "start": 219.272,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p18.png",
+      "start": 232.977,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p19.png",
+      "start": 246.681,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p20.png",
+      "start": 260.386,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p21.png",
+      "start": 274.09,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p22.png",
+      "start": 287.795,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p23.png",
+      "start": 301.499,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p24.png",
+      "start": 315.204,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p25.png",
+      "start": 328.908,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p26.png",
+      "start": 342.613,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p27.png",
+      "start": 356.317,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p28.png",
+      "start": 370.022,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p29.png",
+      "start": 383.726,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p30.png",
+      "start": 397.431,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p31.png",
+      "start": 411.135,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p32.png",
+      "start": 424.84,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p33.png",
+      "start": 438.544,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p34.png",
+      "start": 452.249,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p35.png",
+      "start": 465.953,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p36.png",
+      "start": 479.658,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p37.png",
+      "start": 493.362,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p38.png",
+      "start": 507.067,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p39.png",
+      "start": 520.771,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p40.png",
+      "start": 534.476,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p41.png",
+      "start": 548.18,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p42.png",
+      "start": 561.885,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p43.png",
+      "start": 575.589,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p44.png",
+      "start": 589.294,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p45.png",
+      "start": 602.998,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p46.png",
+      "start": 616.703,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p47.png",
+      "start": 630.407,
+      "duration": 13.705
+    },
+    {
+      "src": "frames/p48.png",
+      "start": 644.112,
+      "duration": 13.705
+    }
+  ],
+  "cues": [
+    {
+      "type": "STAT",
+      "value": "40\u201346%",
+      "time": 47.15,
+      "label": "Key Finding"
+    },
+    {
+      "type": "TERM",
+      "value": "The Possibility Phase",
+      "time": 74.83,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "The Repetition Wall",
+      "time": 121.55,
+      "label": "Mechanism"
+    },
+    {
+      "type": "STAT",
+      "value": "66 days",
+      "time": 187.11,
+      "label": "Key Finding"
+    },
+    {
+      "type": "TERM",
+      "value": "All-or-Nothing Thinking",
+      "time": 249.37,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "Faster Recovery",
+      "time": 295.09,
+      "label": "Mechanism"
+    },
+    {
+      "type": "ARROW",
+      "value": "forward",
+      "time": 295.09,
+      "label": ""
+    },
+    {
+      "type": "TERM",
+      "value": "Worst-Day Routines",
+      "time": 324.89,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "Continuity",
+      "time": 361.62,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "False Progress",
+      "time": 414.11,
+      "label": "Mechanism"
+    },
+    {
+      "type": "STAT",
+      "value": "43%",
+      "time": 465.48,
+      "label": "Key Finding"
+    },
+    {
+      "type": "TERM",
+      "value": "Friction Removal",
+      "time": 500.3,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "Evidence Stacking",
+      "time": 556.34,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "The Middle",
+      "time": 601.47,
+      "label": "Mechanism"
+    },
+    {
+      "type": "TERM",
+      "value": "Momentum",
+      "time": 615.66,
+      "label": "Mechanism"
+    },
+    {
+      "type": "ARROW",
+      "value": "continue",
+      "time": 627.18,
+      "label": ""
+    }
+  ],
+  "papers": [
+    {
+      "src": "assets/external/paper-resolutions.png",
+      "time": 49.3,
+      "duration": 7.5,
+      "credit": "Source: Oscarsson et al. \u2014 PLOS ONE (2020) \u00b7 New Year's resolution outcomes",
+      "highlightY": 470,
+      "highlightW": 620
+    },
+    {
+      "src": "assets/external/paper-habitformation.png",
+      "time": 189.26,
+      "duration": 7.5,
+      "credit": "Source: Gardner, Lally & Wardle \u2014 British Journal of General Practice (2012)",
+      "highlightY": 470,
+      "highlightW": 620
+    },
+    {
+      "src": "assets/external/paper-habits.png",
+      "time": 467.62,
+      "duration": 7.5,
+      "credit": "Source: Wood, Quinn & Kashy \u2014 Journal of Personality & Social Psychology (2002)",
+      "highlightY": 470,
+      "highlightW": 620
+    }
+  ],
+  "archival": [
+    {
+      "src": "assets/external/archive-brain.png",
+      "time": 76.48,
+      "duration": 6.0,
+      "credit": "Archive \u00b7 Anatomical illustration, public domain"
+    }
+  ],
+  "endCardAt": 648.52,
+  "endCardTitle": "Why We Become",
+  "endCardLines": [
+    "Think deeper. Live better. Become more.",
+    "New explainer every week."
+  ]
+}
