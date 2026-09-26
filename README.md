@@ -1,34 +1,21 @@
-# Video 10 — Why You Keep Starting Over
+# Why You Keep Starting Over — Why We Become
 
-Why We Become explainer episode, produced by the Faceless Video Production Playbook.
+Automated faceless-video production run. 1080p30, 10:57.
 
-**Deliverable:** `final.mp4` (1080p, 30 fps, burned-in captions)
-
-## Layout
-
-| Path | Contents |
+| Asset | Description |
 | --- | --- |
-| `script.md` | Narration script with inline motion cue tags |
-| `narration/` | TTS chunks and mastered `voiceover.mp3` |
-| `voiceover.json` | Nova-3 word-level timestamps |
-| `captions.ass` | Rock-steady editorial captions (Montserrat ExtraBold, gold active word) |
-| `sheets/raw/` | 48 generated illustrations |
-| `frames/` | 1080p panel masters |
-| `remotion/` | Remotion motion-graphics composition |
-| `final/` | Final master and audio mix |
-| `seo.md` | YouTube description with full source credits |
+| `final.mp4` | Delivery master, H.264 1080p30, AAC stereo |
 | `thumbnail.png` | 1280×720 thumbnail |
+| `seo.md` | Title options, description, chapters, tags, research citations |
 | `transcript.txt` | Full narration transcript |
 
 ## Pipeline
 
-1. Script prep — branded outro auto-injection, cue-tag extraction, phonetic sanitisation
-2. Deepgram `flux-cole-en` TTS → 7-stage broadcast vocal mastering (−16 LUFS)
-3. Deepgram Nova-3 word-level transcription
-4. 48 illustrations generated against the locked stickman reference sheet
-5. Remotion motion layer — glass stat/mechanism cards, drafting vector arrows, documentary paper reveals, 3D tilted research documents
-6. Audio mix — original ambient score with sidechain ducking plus synced SFX
-7. Burned-in captions, 1080p render
-8. Visual critic gate
-
-Reproduce with the scripts in `scripts/`.
+1. Script → branded outro appended, cue tags stripped for TTS
+2. Deepgram `flux-cole-en` voiceover → broadcast vocal mastering chain
+3. Deepgram `nova-3` word-level alignment for captions and beat timing
+4. 48 illustrations driven by a locked character reference sheet
+5. Remotion motion layer — dual-shot camera moves per illustration, 32 animated
+   graphic beats, 19 kinetic statement cards, word-synced captions
+6. Original ambient score with sidechain ducking, plus synced sound design
+7. Two-pass H.264 encode, audio verified non-silent before publish
